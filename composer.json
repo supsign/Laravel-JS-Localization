@@ -1,5 +1,5 @@
 {
-    "name": supsign/laravel-js-localization",
+    "name": "supsign/laravel-js-localization",
     "description": "Laravel Localization in JavaScript",
     "type": "library",
     "keywords": [
