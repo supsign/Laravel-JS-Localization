@@ -1,5 +1,5 @@
 {
-    "name": "mariuzzo/laravel-js-localization",
+    "name": supsign/laravel-js-localization",
     "description": "Laravel Localization in JavaScript",
     "type": "library",
     "keywords": [
@@ -11,9 +11,15 @@
         "js",
         "lang"
     ],
-    "homepage": "https://github.com/rmariuzzo/laravel-js-localization",
+    "homepage": "https://github.com/supsign/laravel-js-localization",
     "license": "MIT",
     "authors": [
+                {
+            "name": "Fabrizio Cocco",
+            "email": "fabrizio.cocco@supsign.ch",
+            "homepage": "https://github.com/fabcocco",
+            "role": "Manager"
+        },
         {
             "name": "Rubens Mariuzzo",
             "email": "rubens@mariuzzo.com",
